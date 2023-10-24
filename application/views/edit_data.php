@@ -37,6 +37,10 @@
                 </td>
             </tr>
             <tr>
+                <td>Upload Foto</td>
+                <td><input type="file" name="foto"></td>
+            </tr>
+            <tr>
                 <td></td>
                 <td>
                     <input type="submit" name="submit" value="Update">
